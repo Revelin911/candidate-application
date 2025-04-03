@@ -6,7 +6,7 @@ const CandidateSearch = () => {
   //setting values for current and all users
   const [allUsersList, setAllUsersList] = useState<Candidate[]>([]);
   const [currentUserIndex, setCurrentUserIndex] = useState<number>(0);
-  const [savedCandidates, setSavedCandidates] = useState<Candidate[]>([]);
+  // const [savedCandidates, setSavedCandidates] = useState<Candidate[]>([]);
   // const [loading, setLoading] = useState<string | null>(null);
 
   const [currentUser, setCurrentUser] = useState<Candidate>({
