@@ -7,10 +7,12 @@ const Nav = () => {
     <nav>
       <ul>
         <li>
-          <Link to='/' className={({ isActive }) => (isActive ? 'active' : '')} > Home </Link>
+        {/* className={({ isActive }) => (isActive ? 'active' : '')}  */}
+          <Link to='/' > Home </Link>
         </li>
         <li>
-          <Link to='/SavedCandidates' className={({ isActive }) => (isActive ? 'active' : '')} > Potential Candidates </Link>
+        {/* className={({ isActive }) => (isActive ? 'active' : '')}  */}
+          <Link to='/SavedCandidates' > Potential Candidates </Link>
         </li>
       </ul>
       </nav>
