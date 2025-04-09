@@ -56,6 +56,6 @@ SOFTWARE.
 ## Tests
 
 Below is the link where the app is deployed:
-![Render Link] (https://candidate-application.onrender.com)
+![Render Link] (https://candidate-application-1.onrender.com)
 
 When entering the application, you are given the options to sign up or login. Once either action is chosen, you can begin searching for food recipes. In the food recipes you type in the search a food recipe. A recipe will show with instructions on how to create this meal. The searches will save on you will be able to reference back to them in teh "Saved Recipes". In the "Nutrition Facts" tab, you can search up a food. A food will show up with specific nutritional facts.
